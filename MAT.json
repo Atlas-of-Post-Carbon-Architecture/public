@@ -1,17 +1,17 @@
 {
     "MAT": {
+        "MIN": {
+            "en": "Minerals",
+            "fr": "Minéral",
+            "color": "117,116,116",
+            "shade": "0"
+        },
         "MET": {
             "en": "Metals",
             "fr": "Métallique",
             "color": "228,21,43",
             "shade": "0"
         },
-        "MIN": {
-            "en": "Minerals",
-            "fr": "Minéral",
-            "color": "117,116,116",
-            "shade": "0"
-    },
         "NAT": {
             "en": "Natural",
             "fr": "Naturels",
