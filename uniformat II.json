@@ -1,0 +1,152 @@
+{
+  "UNIFORMAT II": {
+    "Level 1": "Major Group Elements",
+    "A": {
+      "name": "Substructure",
+      "Level 2": "Group Elements",
+      "A10": {
+        "name": "Foundations",
+        "Level 3": "Individual Elements",
+        "A1010": "Standard Foundations",
+        "A1020": "Special Foundations",
+        "A1030": "Slab on Grade"
+      },
+      "A20": {
+        "name": "Basement Construction",
+        "A2010": "Basement Excavation",
+        "A2020": "Basement Walls"
+      }
+    },
+    "B": {
+      "name": "Shell",
+      "B10": {
+        "name": "Superstructure",
+        "B1010": "Floor Construction",
+        "B1020": "Roof Construction"
+      },
+      "B20": {
+        "name": "Exterior Enclosure",
+        "B2010": "Exterior Walls",
+        "B2020": "Exterior Windows",
+        "B2030": "Exterior Doors"
+      },
+      "B30": {
+        "name": "Roofing",
+        "B3010": "Roof Coverings",
+        "B3020": "Roof Openings"
+      }
+    },
+    "C": {
+      "name": "Interiors",
+      "C10": {
+        "name": "Interior Construction",
+        "C1010": "Partitions",
+        "C1020": "Interior Doors",
+        "C1030": "Fittings"
+      },
+      "C20": {
+        "name": "Stairs",
+        "C2010": "Stair Construction",
+        "C2020": "Stair Finishes"
+      },
+      "C30": {
+        "name": "Interior Finishes",
+        "C3010": "Wall Finishes",
+        "C3020": "Floor Finishes",
+        "C3030": "Ceiling Finishes"
+      }
+    },
+    "D": {
+      "name": "Services",
+      "D10": {
+        "name": "Conveying",
+        "D1010": "Elevators and Lifts",
+        "D1020": "Escalators and Moving Walks",
+        "D1090": "Other Conveying Systems"
+      },
+      "D20": {
+        "name": "Plumbing",
+        "D2010": "Plumbing Fixtures",
+        "D2020": "Domestic Water Distribution",
+        "D2030": "Sanitary Waste",
+        "D2040": "Rain Water Drainage",
+        "D2090": "Other Plumbing Systems"
+      },
+      "D30": {
+        "name": "HVAC",
+        "D3010": "Energy Supply",
+        "D3020": "Heat Generating Systems",
+        "D3030": "Cooling Generating Systems",
+        "D3040": "Distribution Systems",
+        "D3050": "Terminal and Package Units",
+        "D3060": "Controls and Instrumentation",
+        "D3070": "Systems Testing and Balancing"
+      }
+    },
+    "E": {
+      "name": "Equipment and Furnishings",
+      "E10": {
+        "name": "Equipment",
+        "E1010": "Commercial Equipment",
+        "E1020": "Institutional Equipment",
+        "E1030": "Vehicular Equipment",
+        "E1090": "Other Equipment"
+      },
+      "E20": {
+        "name": "Furnishings",
+        "E2010": "Fixed Furnishings",
+        "E2020": "Movable Furnishings"
+      }
+    },
+    "F": {
+      "name": "Special Construction and Demolition",
+      "F10": {
+        "name": "Special Construction",
+        "F1010": "Special Structures",
+        "F1020": "Integrated Construction",
+        "F1030": "Special Construction Systems",
+        "F1040": "Special Facilities",
+        "F1050": "Special Controls and Instrumentation"
+      },
+      "F20": {
+        "name": "Demolition",
+        "F2010": "Building Elements Demolition",
+        "F2020": "Hazardous Components Abatement"
+      }
+    },
+    "G": {
+      "name": "Building Sitework",
+      "G10": {
+        "name": "Site Preparation",
+        "G1010": "Site Clearing"
+      },
+      "G20": {
+        "name": "Site Improvement",
+        "G2010": "Roadways",
+        "G2020": "Parking Lots",
+        "G2030": "Pedestrian Paving",
+        "G2040": "Site Development"
+      },
+      "G30": {
+        "name": "Site Mechanical Utilities",
+        "G3010": "Water Supply",
+        "G3020": "Sanitary Sewer",
+        "G3030": "Storm Sewer",
+        "G3040": "Heating Distribution",
+        "G3050": "Cooling Distribution"
+      },
+      "G40": {
+        "name": "Site Electrical Utilities",
+        "G4010": "Electrical Distribution",
+        "G4020": "Site Lighting",
+        "G4030": "Site Communications and Security",
+        "G4040": "Other Site Electrical Utilities"
+      },
+      "G90": {
+        "name": "Other Site Construction",
+        "G9010": "Service and Pedestrian Tunnels",
+        "G9090": "Other Site Systems"
+      }
+    }
+  }
+}
