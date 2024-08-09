@@ -1,12 +1,9 @@
 {
   "UNIFORMAT II": {
-    "Level 1": "Major Group Elements",
     "A": {
       "name": "Substructure",
-      "Level 2": "Group Elements",
       "A10": {
         "name": "Foundations",
-        "Level 3": "Individual Elements",
         "A1010": "Standard Foundations",
         "A1020": "Special Foundations",
         "A1030": "Slab on Grade"
