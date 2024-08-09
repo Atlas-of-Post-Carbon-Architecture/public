@@ -1,0 +1,35 @@
+{
+    "MAT": {
+        "MET": {
+            "en": "Metals",
+            "fr": "Métallique",
+            "color": "228,21,43",
+            "shade": "0"
+        },
+        "MIN": {
+            "en": "Minerals",
+            "fr": "Minéral",
+            "color": "117,116,116",
+            "shade": "0"
+    },
+        "NAT": {
+            "en": "Natural",
+            "fr": "Naturels",
+            "color": "0,129,97",
+            "shade": "0"
+        },
+        "PLA": {
+            "en": "Plastics",
+            "fr": "Plastique",
+            "color": "237,115,170",
+            "shade": "0"
+        },
+        "GLA": {
+            "en": "Glass",
+            "fr": "Verre",
+            "color": "0,151,196",
+            "shade": "0"
+        }
+    }
+  }
+  
