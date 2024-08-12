@@ -3,31 +3,36 @@
         "MIN": {
             "en": "Minerals",
             "fr": "Minéral",
-            "color": "117,116,116",
+            "rvb": "117,116,116",
+            "hex": "#757474",
             "shade": "0"
         },
         "MET": {
             "en": "Metals",
             "fr": "Métallique",
-            "color": "228,21,43",
+            "rvb": "228,21,43",
+            "hex": "#E4152B",
             "shade": "0"
         },
         "NAT": {
             "en": "Natural",
             "fr": "Naturels",
-            "color": "0,129,97",
+            "rvb": "0,129,97",
+            "hex": "#008161",
             "shade": "0"
         },
         "PLA": {
             "en": "Plastics",
             "fr": "Plastique",
-            "color": "237,115,170",
+            "rvb": "237,115,170",
+            "hex": "#ED73AA",
             "shade": "0"
         },
         "GLA": {
             "en": "Glass",
             "fr": "Verre",
-            "color": "0,151,196",
+            "rvb": "0,151,196",
+            "hex": "#0097C4",
             "shade": "0"
         }
     }
